@@ -1,0 +1,122 @@
+medium	description	compound	name
+mm	mega medium, preparation protocol	4abz	4-Aminobenzoate
+mm	mega medium, metabolomics	xan	Xanthine
+mm	mega medium, metabolomics	ser__L	L-Serine
+mm	mega medium, metabolomics	xtsn	Xanthosine
+mm	mega medium, metabolomics	adn	Adenosine
+mm	mega medium, metabolomics	bzal	Benzaldehyde
+mm	mega medium, preparation protocol	fol	Folate
+mm	mega medium, metabolomics	cys__L	L-Cysteine
+mm	mega medium, metabolomics	Lpipecol	L-pipecolic acid; piperidine-2-carboxylic acid
+mm	mega medium, metabolomics	gly	Glycine
+mm	mega medium, metabolomics	catechol	Catechol
+mm	mega medium, metabolomics	4abut	4-Aminobutanoate
+mm	mega medium, metabolomics	5mta	5-Methylthioadenosine
+mm	mega medium, metabolomics	duri	Deoxyuridine
+mm	mega medium, preparation protocol	ival	Isovalerate
+mm	mega medium, metabolomics	ncam	Nicotinamide
+mm	mega medium, metabolomics	cysi__L	L Cystine C6H12N2O4S2
+mm	mega medium, preparation protocol	pi	Phosphate
+mm	mega medium, preparation protocol	ni2	Nickel
+mm	mega medium, preparation protocol	mn2	Manganese
+mm	mega medium, metabolomics	acrn	O Acetylcarnitine C9H17NO4
+mm	mega medium, metabolomics	phe__L	L-Phenylalanine
+mm	mega medium, preparation protocol	na1	Sodium
+mm	mega medium, metabolomics	diact	Diacetyl C4H6O2
+mm	mega medium, metabolomics	his__L	L-Histidine
+mm	mega medium, metabolomics	cyst__L	L-Cystathionine
+mm	mega medium, metabolomics	mnl	D-Mannitol
+mm	mega medium, metabolomics	met__L	L-Methionine
+mm	mega medium, metabolomics	man	D-Mannose
+mm	mega medium, metabolomics	1acpc	1-Aminocyclopropane-1-carboxylate
+mm	mega medium, metabolomics	ile__L	L-Isoleucine
+mm	mega medium, preparation protocol	pnto__R	(R)-Pantothenate
+mm	mega medium, metabolomics	leu__L	L-Leucine
+mm	mega medium, metabolomics	26dap_LL	LL-2,6-Diaminoheptanedioate
+mm	mega medium, metabolomics	ins	Inosine
+mm	mega medium, metabolomics	gln__L	L-Glutamine
+mm	mega medium, metabolomics	sucr	Sucrose C12H22O11
+mm	mega medium, metabolomics	ura	Uracil
+mm	mega medium, metabolomics	val__L	L-Valine
+mm	mega medium, metabolomics	4hbald	4-Hydroxybenzaldehyde
+mm	mega medium, metabolomics	4gudbutn	4 Guanidinobutanoate C5H11N3O2
+mm	mega medium, metabolomics	crn	L-Carnitine
+mm	mega medium, preparation protocol	fe3	Iron (Fe3+)
+mm	mega medium, metabolomics	pro__L	L-Proline
+mm	mega medium, preparation protocol	modb	
+mm	mega medium, preparation protocol	sel	Selenate
+mm	mega medium, metabolomics	sarcs	Sarcosine C3H7NO2
+mm	mega medium, metabolomics	glygly	Glycylglycine C4H8N2O3
+mm	mega medium, metabolomics	ala_B	Beta-Alanine
+mm	mega medium, metabolomics	uri	Uridine
+mm	mega medium, preparation protocol	h2co3	Carbonic acid
+mm	mega medium, preparation protocol	cl	Chloride
+mm	mega medium, metabolomics	hom__L	L-Homoserine
+mm	mega medium, metabolomics	acgam	N-Acetyl-D-glucosamine
+mm	mega medium, metabolomics	creat	Creatine cytosol
+mm	mega medium, metabolomics	pala	Palatinose C12H22O11
+mm	mega medium, metabolomics	asn__L	L-Asparagine
+mm	mega medium, metabolomics	gbbtn	Gamma-butyrobetaine
+mm	mega medium, metabolomics	cytd	Cytidine
+mm	mega medium, metabolomics	ahcys	S-Adenosyl-L-homocysteine
+mm	mega medium, metabolomics	5aptn	5-Aminopentanoate
+mm	mega medium, preparation protocol	mg2	Magnesium
+mm	mega medium, metabolomics	dcyt	Deoxycytidine
+mm	mega medium, preparation protocol	ppa	Propionate (n-C3:0)
+mm	mega medium, metabolomics	thr__L	L-Threonine
+mm	mega medium, preparation protocol	cbl1	Cob(I)alamin
+mm	mega medium, preparation protocol	ca2	Calcium
+mm	mega medium, metabolomics	ade	Adenine
+mm	mega medium, preparation protocol	ribflv	Riboflavin C17H20N4O6
+mm	mega medium, metabolomics	2dglc	2 Deoxy D glucose C6H12O5
+mm	mega medium, metabolomics	hxan	Hypoxanthine
+mm	mega medium, metabolomics	csn	Cytosine
+mm	mega medium, preparation protocol	mndn	Menadione
+mm	mega medium, metabolomics	chol	Choline C5H14NO
+mm	mega medium, metabolomics	tyr__L	L-Tyrosine
+mm	mega medium, metabolomics	dmgly	N,N-Dimethylglycine
+mm	mega medium, metabolomics	taur	Taurine C2H7NO3S
+mm	mega medium, metabolomics	5mcsn	5-Methylcytosine
+mm	mega medium, metabolomics	trp__L	L-Tryptophan
+mm	mega medium, preparation protocol	no3	Nitrate
+mm	mega medium, metabolomics	galt	Galactitol
+mm	mega medium, metabolomics	glyb	Glycine betaine
+mm	mega medium, metabolomics	g3pc	Sn-Glycero-3-phosphocholine
+mm	mega medium, metabolomics	citr__L	L-Citrulline
+mm	mega medium, preparation protocol	k	Potassium
+mm	mega medium, metabolomics	malt	Maltose C12H22O11
+mm	mega medium, metabolomics	4tmeabutn	4-Trimethylammoniobutanoate
+mm	mega medium, preparation protocol	fe2	Fe2+ mitochondria
+mm	mega medium, preparation protocol	nac	Nicotinate
+mm	mega medium, metabolomics	ala__D	D-Alanine
+mm	mega medium, metabolomics	id3acald	Indole 3 acetaldehyde C10H9NO
+mm	mega medium, preparation protocol	h2o	H2O H2O
+mm	mega medium, metabolomics	srb__L	L Sorbose C6H12O6
+mm	mega medium, metabolomics	bzalc	Benzyl alcohol
+mm	mega medium, metabolomics	athr__L	L-Allo-threonine
+mm	mega medium, preparation protocol	zn2	Zinc
+mm	mega medium, preparation protocol	but	Butyrate (n-C4:0)
+mm	mega medium, preparation protocol	cobalt2	Co2+
+mm	mega medium, metabolomics	ach	Acetylcholine
+mm	mega medium, metabolomics	56dura	5,6-dihydrouracil
+mm	mega medium, metabolomics	gsn	Guanosine
+mm	mega medium, preparation protocol	so4	Sulfate
+mm	mega medium, metabolomics	glc__aD	Alpha D-glucose
+mm	mega medium, preparation protocol	h	H+
+mm	mega medium, preparation protocol	ac	Acetate
+mm	mega medium, preparation protocol	lipt	Lipoate C8H13O2S2
+mm	mega medium, metabolomics	thym	Thymine C5H6N2O2
+mm	mega medium, metabolomics	pydxn	Pyridoxine
+mm	mega medium, metabolomics	ala__L	L-Alanine
+mm	mega medium, preparation protocol	btn	Biotin
+mm	mega medium, metabolomics	acser	O-Acetyl-L-serine
+mm	mega medium, preparation protocol	fru	D-Fructose
+mm	mega medium, preparation protocol	cu2	Copper
+mm	mega medium, metabolomics	cellb	Cellobiose
+mm	mega medium, metabolomics	Glc_aD	Alpha-D-glucose
+mm	mega medium, preparation protocol	thm	Thiamin
+mm	mega medium, metabolomics	6dg	D Gal alpha 1 6D Glucose C12H22O11
+mm	mega medium, metabolomics	glc__D	D-Glucose
+mm	mega medium, metabolomics	4hpro_LT	Trans 4 Hydroxy L proline C5H9NO3
+mm	mega medium, metabolomics	all__D	D-Allose
+mm	mega medium, metabolomics	ind3eth	Indole 3 ethanol C10H11NO
