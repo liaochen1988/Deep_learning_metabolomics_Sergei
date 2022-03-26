@@ -1,0 +1,179 @@
+genome_id,taxonomy,NCBI organism name,NCBI strain name,NCBI assembly ID,source,cstr_num_total,cstr_num_used
+G82,Clostridium aldenense WAL-18727 BEI HM-307,,WAL-18727,,De novo assembly of SRR058688 using SPAdes,29.0,21.0
+G150,Muribaculum intestinale DSMZ 28989 YL27,,DSM 28989,,De novo assembly of SRR2124911 using SPAdes,,
+G89,Clostridium cadaveris CC88A BEI HM-1041,,CC88A,,De novo assembly of SRR770200 using SPAdes,39.0,32.0
+G10,Atopobium parvulum CC14Z BEI HM-1035,,CC14Z,,De novo assembly of SRR770242 using SPAdes,25.0,25.0
+G88,Clostridium cadaveris CC44_001G BEI HM-1040,,CC44_001G,,De novo assembly of SRR770461 using SPAdes,50.0,5.0
+G87,Clostridium cadaveris CC40_001C BEI HM-1039,,CC40_001C,,De novo assembly of SRR772289 using SPAdes,39.0,4.0
+G5,Anaerococcus lactolyticus CC31C BEI HM-1034,,CC31C,,De novo assembly of SRR782086 using SPAdes,27.0,12.0
+G152,Parabacteroides goldsteinii CC87F BEI HM-1050,,CC87F,,De novo assembly of SRR835804 using SPAdes,42.0,4.0
+G177,Varibaculum cambriense AB12_3 BEI HM-1190,,AB12_3,,De novo assembly of SRR950962 using SPAdes,26.0,17.0
+G85,Clostridium bolteae CC43_001B BEI HM-1038,,CC43_001B,,De novo assembly of SRR959071 using SPAdes,45.0,22.0
+G157,Peptostreptococcus sp. CC14N BEI HM-1051,,CC14N,,De novo assembly of SRR959132 using SPAdes,45.0,14.0
+G4,Akkermansia muciniphila ATCC BAA-835,,ATCC BAA-835,,Download from ATCC,,
+G22,Bacteroides eggerthii ATCC 27754,,DSM 20697,,Download from ATCC,60.0,30.0
+G58,Bacteroides vulgatus ATCC 8482,,ATCC 8482,,Download from ATCC,57.0,8.0
+G62,Bifidobacterium bifidum DSMZ 20456,,DSM 20456,,Download from ATCC,14.0,3.0
+G66,Bifidobacterium dentium ATCC 27678,,ATCC 27678,,Download from ATCC,22.0,15.0
+G68,Bifidobacterium infantis ATCC 15697,,ATCC 15697,,Download from ATCC,32.0,6.0
+G84,Clostridium bolteae ATCC BAA-613,,ATCC BAA-613,,Download from ATCC,45.0,27.0
+G107,Coprococcus comes ATCC 27758,,ATCC 27758,,Download from ATCC,33.0,3.0
+G110,Desulfovibrio piger ATCC 29098 M1,,29098 M1,,Download from ATCC,6.0,5.0
+G111,Desulfovibrio piger ATCC 29098 M2,,29098 M2,,Download from ATCC,4.0,4.0
+G112,Dorea formicigenerans ATCC 27755,,ATCC 27755,,Download from ATCC,30.0,30.0
+G121,Escherichia coli MG-1655 ATCC 7000926,,ATCC 700926,,Download from ATCC,50.0,37.0
+G132,Granulicatella adiacens DSMZ 9848,,ATCC 49175,,Download from ATCC,29.0,5.0
+G134,Holdemania filiformis DSMZ 12042,,ATCC 51649,,Download from ATCC,41.0,26.0
+G141,Lactobacillus plantarum ATCC BAA-793,,ATCC BAA-793,,Download from ATCC,34.0,20.0
+G143,Lactobacillus reuteri F275 ATCC 23272,,ATCC 23272,,Download from ATCC,38.0,2.0
+G144,Lactobacillus rhamnosus GG ATCC 53103,,ATCC 53103,,Download from ATCC,40.0,21.0
+G146,Lactobacillus ruminis ATCC 25644,,ATCC 25644,,Download from ATCC,36.0,6.0
+G147,Lactococcus lactis DSMZ 20729,,ATCC 11454,,Download from ATCC,31.0,10.0
+G151,Parabacteroides distasonis ATCC 8503,,ATCC 8503,,Download from ATCC,31.0,25.0
+G154,Parabacteroides merdae ATCC 43184,,ATCC 43184,,Download from ATCC,19.0,14.0
+G159,Prevotella buccalis ATCC 35310,,ATCC 35310,,Download from ATCC,,
+G163,Providencia rustigianii DSM 4541,,ATCC 33673,,Download from ATCC,34.0,13.0
+G174,Streptococcus thermophilus LMD-9 ATCC 19258,,ATCC 19258,,Download from ATCC,36.0,24.0
+G176,Tyzzerella nexilis DSM 1787,,ATCC 27757,,Download from ATCC,48.0,2.0
+G1,Acidaminococcus fermentans DSMZ 20731,Acidaminococcus fermentans DSM 20731,DSM 20731,GCF_000025305.1,Download from NCBI,,
+G2,Acidaminococcus intestini D21 BEI HM-81,Acidaminococcus intestini,D21,GCF_000174215.1,Download from NCBI,,
+G3,Acidaminococcus sp. HPA0509 BEI HM-853,Acidaminococcus sp. HPA0509,HPA0509,GCF_000411395.1,Download from NCBI,,
+G6,Anaerostipes caccae DSMZ 14662,Anaerostipes caccae L1-92,DSM 14662,GCF_014131675.1,Download from NCBI,33.0,21.0
+G7,Anaerostipes sp. 3_2_56FAA BEI HM-220 904a,Anaerostipes caccae,3_2_56FAA,GCF_000185825.1,Download from NCBI,33.0,20.0
+G8,Anaerostipes sp. 3_2_56FAA BEI HM-220 904b,Anaerostipes caccae,3_2_56FAA,GCF_000185825.1,Download from NCBI,38.0,22.0
+G9,Anaerotruncus colihominis DSMZ 17241,Anaerotruncus colihominis DSM 17241,DSM 17241,GCF_000154565.1,Download from NCBI,23.0,13.0
+G11,Bacillus sp. 7_6_55CFAA_CT2 BEI HM-231,Bacillus sp. 7_6_55CFAA_CT2,7_6_55CFAA_CT2,GCF_000238655.1,Download from NCBI,34.0,6.0
+G12,Bacteroides caccae ATCC 43185,Bacteroides caccae,ATCC 43185,GCF_002222615.2,Download from NCBI,41.0,10.0
+G13,Bacteroides caccae CL03T12C61 BEI HM-728,Bacteroides caccae CL03T12C61,CL03T12C61,GCF_018292205.1,Download from NCBI,38.0,6.0
+G14,Bacteroides cellulosilyticus CL02T12C19 BEI HM-726,Bacteroides cellulosilyticus CL02T12C19,CL02T12C19,GCF_000273015.1,Download from NCBI,32.0,7.0
+G15,Bacteroides cellulosilyticus DSMZ 14838,Bacteroides cellulosilyticus DSM 14838,DSM 14838,GCF_000158035.1,Download from NCBI,39.0,11.0
+G16,Bacteroides coprophilus DSMZ 18228,Phocaeicola coprophilus DSM 18228 = JCM 13818,DSM 18228,GCF_000157915.1,Download from NCBI,34.0,2.0
+G17,Bacteroides dorei 5_1_36/D4 BEI HM-29,Phocaeicola dorei 5_1_36/D4,5_1_36/D4,GCF_000158335.2,Download from NCBI,44.0,10.0
+G18,Bacteroides dorei CL02T00C15 BEI HM-717,Phocaeicola dorei CL02T00C15,CL02T00C15,GCF_000273035.1,Download from NCBI,37.0,7.0
+G19,Bacteroides dorei CL02T12C06 BEI HM-719,Phocaeicola dorei CL02T12C06,CL02T12C06,GCF_000273055.1,Download from NCBI,39.0,7.0
+G20,Bacteroides dorei CL03T12C01 BEI HM-718,Phocaeicola dorei CL03T12C01,CL03T12C01,GCF_001640865.1,Download from NCBI,33.0,15.0
+G21,Bacteroides dorei DSMZ 17855,Phocaeicola dorei,DSM 17855,GCF_013009555.1 ,Download from NCBI,28.0,22.0
+G23,Bacteroides finegoldii CL09T03C10 BEI HM-727,Bacteroides finegoldii CL09T03C10,CL09T03C10,GCF_000304195.1,Download from NCBI,42.0,13.0
+G24,Bacteroides finegoldii DSMZ 17565,Bacteroides finegoldii DSM 17565,DSM 17565,GCF_000156195.1,Download from NCBI,20.0,9.0
+G25,Bacteroides fragilis 3_1_12 BEI HM-20,Bacteroides fragilis 3_1_12,3_1_12,GCF_000157015.1,Download from NCBI,57.0,17.0
+G26,Bacteroides fragilis CL03T12C07 BEI HM-714,Bacteroides fragilis CL03T12C07,CL03T12C07,GCF_018292185.1,Download from NCBI,57.0,18.0
+G27,Bacteroides fragilis CL05T00C42 BEI HM-711,Bacteroides fragilis CL05T00C42,CL05T00C42,GCF_000273765.1,Download from NCBI,55.0,17.0
+G28,Bacteroides fragilis CL07T12C05 BEI HM-710,Bacteroides fragilis CL07T12C05,CL07T12C05,GCF_000273155.1,Download from NCBI,58.0,10.0
+G29,Bacteroides fragilis NCTC 9343,Bacteroides fragilis NCTC 9343,NCTC 9343,GCF_000025985.1,Download from NCBI,46.0,8.0
+G30,Bacteroides intestinalis DSMZ 17393,Bacteroides intestinalis DSM 17393,DSM 17393,GCF_000172175.1,Download from NCBI,51.0,6.0
+G31,Bacteroides ovatus 3_8_47FAA BEI HM-222,Bacteroides ovatus 3_8_47FAA,3_8_47FAA,GCF_000218325.1,Download from NCBI,45.0,6.0
+G32,Bacteroides ovatus ATCC 8483,Bacteroides ovatus,ATCC 8483,GCF_001314995.1,Download from NCBI,44.0,22.0
+G33,Bacteroides plebeius DSMZ 17135,Phocaeicola plebeius DSM 17135,DSM 17135,GCF_000187895.1,Download from NCBI,30.0,24.0
+G34,Bacteroides salyersiae CL02T12C01 BEI HM-725,Bacteroides salyersiae CL02T12C01,CL02T12C01,GCF_000273235.1,Download from NCBI,54.0,17.0
+G35,Bacteroides sp. 1_1_30 BEI HM-22,Bacteroides sp. 1_1_30,1_1_30,GCF_000218365.1,Download from NCBI,45.0,8.0
+G36,Bacteroides sp. 1_1_6 BEI HM-23,Bacteroides thetaiotaomicron,1_1_6,GCF_000159875.2,Download from NCBI,32.0,9.0
+G37,Bacteroides sp. 2_1_16 BEI HM-58,Bacteroides fragilis,2_1_16,GCF_000162135.1,Download from NCBI,35.0,13.0
+G38,Bacteroides sp. 2_1_22 BEI HM-18,Bacteroides sp. 2_1_22,2_1_22,GCF_000162155.1,Download from NCBI,46.0,10.0
+G39,Bacteroides sp. 3_1_19 BEI HM-19,Bacteroides sp. 3_1_19,3_1_19,GCF_000163655.1,Download from NCBI,35.0,17.0
+G40,Bacteroides sp. 4_1_36 BEI HM-258,Bacteroides sp. 4_1_36,4_1_36,GCF_000185585.1,Download from NCBI,42.0,6.0
+G41,Bacteroides sp. 9_1_42FAA BEI HM-27,Bacteroides sp. 9_1_42FAA,9_1_42FAA,GCF_000157075.2,Download from NCBI,49.0,9.0
+G42,Bacteroides sp. D20 BEI HM-189,Bacteroides sp. D20,D20,GCF_000162215.1,Download from NCBI,47.0,5.0
+G43,Bacteroides stercoris ATCC 43183,Bacteroides stercoris ATCC 43183,ATCC 43183,GCF_000154525.1,Download from NCBI,58.0,8.0
+G44,Bacteroides stercoris CC31F BEI HM-1036,Bacteroides stercoris CC31F,CC31F,GCF_000413395.1,Download from NCBI,50.0,17.0
+G46,Bacteroides thetaiotaomicron 3731,Bacteroides thetaiotaomicron,3731,GCF_001049535.1,Download from NCBI,52.0,16.0
+G48,Bacteroides thetaiotaomicron 7330,Bacteroides thetaiotaomicron,7330,GCF_001314975.1,Download from NCBI,47.0,9.0
+G52,Bacteroides thetaiotaomicron 8736,Bacteroides faecis,8736,GCF_003121505.1 ,Download from NCBI,55.0,19.0
+G54,Bacteroides thetaiotaomicron VPI 5482,Bacteroides thetaiotaomicron VPI-5482,VPI-5482,GCF_000011065.1,Download from NCBI,37.0,32.0
+G57,Bacteroides uniformis ATCC 8492,Bacteroides uniformis ATCC 8492,ATCC 8492,GCF_000154205.1,Download from NCBI,39.0,27.0
+G59,Bacteroides vulgatus CL09T03C04 BEI HM-720,Phocaeicola vulgatus CL09T03C04,CL09T03C04,GCF_000273295.1,Download from NCBI,44.0,5.0
+G60,Bacteroides xylanoisolvens XB1A DSMZ 18836,Bacteroides xylanisolvens XB1A,XB1A,GCF_000210075.1,Download from NCBI,48.0,10.0
+G61,Bifidobacterium adolescentis L2-32,Bifidobacterium adolescentis L2-32,L2-32,GCF_000154085.1,Download from NCBI,30.0,6.0
+G63,Bifidobacterium breve DSMZ 20213,Bifidobacterium breve DSM 20213 = JCM 1192,JCM 1192,GCF_001025175.1 ,Download from NCBI,24.0,4.0
+G64,Bifidobacterium breve UCC2003,Bifidobacterium breve UCC2003,UCC2003,GCF_000220135.1,Download from NCBI,41.0,7.0
+G65,Bifidobacterium catenulatum DSMZ 16992,Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043,JCM 1194,GCF_001025195.1,Download from NCBI,27.0,4.0
+G67,Bifidobacterium gallicum DSMZ 20093,Bifidobacterium gallicum DSM 20093 = LMG 11596,DSM 20093,GCF_000771165.1,Download from NCBI,45.0,11.0
+G69,Bifidobacterium longum NCC 2705,Bifidobacterium longum NCC2705,NCC2705,GCF_000007525.1,Download from NCBI,40.0,5.0
+G70,Bifidobacterium longum reuter ATCC 55813,Bifidobacterium longum subsp. longum ATCC 55813,ATCC 55813,GCF_000003135.1,Download from NCBI,,
+G71,Bifidobacterium pseudocatenulatum DSMZ 20438,Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505,JCM 1200,GCF_001025215.1,Download from NCBI,33.0,6.0
+G72,Blautia hansenii DSMZ 20583,Blautia hansenii DSM 20583,DSM 20583,GCF_002222595.2,Download from NCBI,30.0,24.0
+G73,Blautia producta DMSZ 2950,Blautia producta,DSM 2950,GCF_014131715.1,Download from NCBI,48.0,8.0
+G74,Catenibacterium mitsuokai DSMZ 15897,Catenibacterium mitsuokai DSM 15897,DSM 15897,GCF_000173795.1,Download from NCBI,31.0,20.0
+G75,Citrobacter portucalensis 30_2  BEI HM-34,Citrobacter portucalensis,30_2,GCF_002215605.1,Download from NCBI,46.0,42.0
+G76,Citrobacter portucalensis 4_7_47CFAA BEI HM-299,Citrobacter portucalensis,4_7_47CFAA,GCF_000238735.1,Download from NCBI,46.0,39.0
+G77,Citrobacter youngae ATCC 29220,Citrobacter youngae ATCC 29220,ATCC 29220,GCF_000155975.1,Download from NCBI,46.0,44.0
+G78,Clostridiales sp. 3_1_39B/D5 BEI HM-84,Clostridium sp. D5,D5,GCF_000190355.1,Download from NCBI,45.0,16.0
+G81,Clostridioides difficile M68,Clostridioides difficile M68,M68,GCF_000210395.1,Download from NCBI,,
+G83,Clostridium asparagiforme DSMZ 15981,[Clostridium] asparagiforme DSM 15981,DSM 15981,GCF_000158075.1,Download from NCBI,42.0,28.0
+G86,Clostridium bolteae WAL-14578 BEI HM-318,[Clostridium] bolteae WAL-14578,WAL-14578,GCF_001078425.1,Download from NCBI,49.0,30.0
+G90,Clostridium citroniae WAL-17108 BEI HM-315,[Clostridium] citroniae WAL-17108,WAL-17108,GCF_000233455.1,Download from NCBI,51.0,16.0
+G91,Clostridium clostridioforme 2_1_49FAA BEI HM-306,[Clostridium] clostridioforme 2_1_49FAA,2_1_49FAA,GCF_000234155.1,Download from NCBI,48.0,36.0
+G92,Clostridium clostridioforme WAL-7855 BEI HM-317,[Clostridium] clostridioforme WAL-7855,WAL-7855,GCF_001078445.1,Download from NCBI,50.0,33.0
+G93,Clostridium hathewayi WAL-18680 BEI HM-308,Hungatella hathewayi WAL-18680,WAL-18680,GCF_005886215.1,Download from NCBI,45.0,31.0
+G94,Clostridium hylemonae DSMZ 15053,[Clostridium] hylemonae DSM 15053,DSM 15053,GCF_008281175.1,Download from NCBI,31.0,31.0
+G97,Clostridium perfringens WAL-14572 BEI HM-310,Clostridium perfringens WAL-14572,WAL-14572,GCF_000243175.1,Download from NCBI,51.0,28.0
+G98,Clostridium saccharolyticum WM1 DSMZ 2544,[Clostridium] saccharolyticum WM1,WM1,GCF_000144625.1,Download from NCBI,44.0,31.0
+G99,Clostridium scindens ATCC 35704,[Clostridium] scindens ATCC 35704,ATCC 35704,GCF_004295125.1,Download from NCBI,36.0,31.0
+G100,Clostridium sp. KLE 1755 BEI HM-1033,Clostridium sp. KLE 1755,KLE 1755,GCF_000466465.2,Download from NCBI,,
+G101,Clostridium spiroforme DSMZ 1552 M1,[Clostridium] spiroforme DSM 1552,DSM 1552,GCF_000154805.1,Download from NCBI,,
+G102,Clostridium spiroforme DSMZ 1552 M2,[Clostridium] spiroforme DSM 1552,DSM 1552,GCF_000154805.1,Download from NCBI,,
+G103,Clostridium sporogenes ATCC 15579,Clostridium sporogenes ATCC 15579,ATCC 15579,GCF_000155085.1,Download from NCBI,43.0,9.0
+G104,Clostridium symbiosum BEI HM-309,Clos_symb_WAL_14163_V1,WAL-14163,GCF_000189595.1,Download from NCBI,44.0,2.0
+G105,Clostridium symbiosum WAL 14673 BEI HM-319,[Clostridium] symbiosum WAL-14673,WAL-14673,GCF_000189615.1,Download from NCBI,54.0,3.0
+G106,Collinsella aerofaciens ATCC 25986,Collinsella aerofaciens ATCC 25986,ATCC 25986,GCF_000169035.1,Download from NCBI,38.0,2.0
+G108,Coprococcus sp. HPP0048 BEI HM-794,Coprococcus sp. HPP0048,HPP0048,GCF_000411355.1,Download from NCBI,25.0,21.0
+G109,Coprococcus sp. HPP0074 BEI HM-793,Coprococcus sp. HPP0074,HPP0074,GCF_000411335.1,Download from NCBI,,
+G113,Dorea longicatena DSMZ 13814,Dorea longicatena DSM 13814,DSM 13814,GCF_000154065.1,Download from NCBI,27.0,18.0
+G114,Edwardsiella tarda ATCC 23685,Edwardsiella tarda ATCC 23685,ATCC 23685,GCF_000163955.1,Download from NCBI,,
+G115,Eggerthella lenta DSMZ 2243,Eggerthella lenta,DSM 2243,GCF_000024265.1,Download from NCBI,21.0,21.0
+G116,Enterobacter cancerogenus ATCC 35316,Enterobacter cancerogenus ATCC 35316,ATCC 35316,GCF_000155995.1,Download from NCBI,43.0,42.0
+G117,Enterococcus faecalis TX1322 BEI HM-202,Enterococcus faecalis TX1322,TX1322,GCF_000159275.1,Download from NCBI,44.0,37.0
+G118,Enterococcus faecalis TX2137 BEI HM-432,Enterococcus faecalis TX2137,TX2137,GCF_000147595.1,Download from NCBI,44.0,32.0
+G119,Enterococcus faecium ERV165 BEI HM-970,Enterococcus faecium ERV165,ERV165,GCF_000295235.2,Download from NCBI,47.0,29.0
+G120,Enterococcus faecium TX1330 BEI HM-204,Enterococcus faecium TX1330,TX1330,GCF_003583905.1,Download from NCBI,43.0,28.0
+G122,Eubacterium eligens DSMZ 3376,[Eubacterium] eligens ATCC 27750,ATCC 27750,GCF_000146185.1,Download from NCBI,32.0,8.0
+G124,Eubacterium siraeum DSMZ 15702,[Eubacterium] siraeum DSM 15702,DSM 15702,GCF_000382085.1,Download from NCBI,32.0,4.0
+G125,Eubacterium ventriosum DSMZ 3988,Eubacterium ventriosum ATCC 27560,ATCC 27560,GCF_000153885.1,Download from NCBI,24.0,15.0
+G127,Faecalibacterium prausnitzii A2-165 DSMZ 17677,Faecalibacterium prausnitzii A2-165,JCM 31915,GCF_010509575.1,Download from NCBI,,
+G128,Faecalibacterium prausnitzii KLE1255 BEI HM-473,Faecalibacterium cf. prausnitzii KLE1255,KLE1255,GCF_000166035.1,Download from NCBI,,
+G129,Fusobacterium nucleatum CTI-2 BEI HM-993,Fusobacterium nucleatum CTI-2,CTI-2,GCF_000479265.1,Download from NCBI,45.0,5.0
+G131,Fusobacterium ulcerans 12-1B BEI HM-57,Fusobacterium ulcerans 12-1B,12-1B,GCF_000242995.2,Download from NCBI,45.0,4.0
+G133,Holdemanella biformis DSMZ 3989,Holdemanella biformis DSM 3989,DSM 3989,GCF_000156655.1,Download from NCBI,17.0,16.0
+G135,Hungatella hathewayi DSM 13479,Hungatella hathewayi DSM 13479,DSM 13479,GCF_000160095.1,Download from NCBI,46.0,24.0
+G136,Intestinibacter bartlettii DSM 16795,Intestinibacter bartlettii DSM 16795,DSM 16795,GCF_900167285.1,Download from NCBI,39.0,11.0
+G142,Lactobacillus reuteri CF48-3A BEI HM-102,Limosilactobacillus reuteri CF48-3A,CF48-3A,GCF_000159615.1,Download from NCBI,26.0,8.0
+G145,Lactobacillus rhamnosus LMS2-1 BEI HM-106,Lacticaseibacillus rhamnosus LMS2-1,LMS2-1,GCF_000160175.1,Download from NCBI,32.0,21.0
+G148,Marvinbryantia formatexigens DSMZ 14469,Marvinbryantia formatexigens DSM 14469,DSM 14469,GCF_000173815.1,Download from NCBI,24.0,8.0
+G149,Mitsuokella multacida DSMZ 20544,Mitsuokella multacida DSM 20544,DSM 20544,GCF_000155955.1,Download from NCBI,41.0,33.0
+G153,Parabacteroides johnsonii DSMZ 18315,Parabacteroides johnsonii DSM 18315,DSM 18315,GCF_000156495.1,Download from NCBI,28.0,17.0
+G155,Parabacteroides merdae CL09T00C40 BEI HM-729,Parabacteroides merdae CL09T00C40,CL09T00C40,GCF_000307495.1,Download from NCBI,41.0,4.0
+G156,Parabacteroides sp. D13 BEI HM-77,Parabacteroides sp. D13,D13,GCF_000162275.1,Download from NCBI,22.0,10.0
+G158,Prevotella buccae D17,Prevotella buccae D17,D17,GCF_000162455.1,Download from NCBI,,
+G160,Prevotella oralis CC98A BEI HM-1054,Prevotella oralis CC98A,CC98A,GCF_000507905.1,Download from NCBI,,
+G161,Prevotella oralis HGA0225 BEI HM-849,Prevotella oralis HGA0225,HGA0225,GCF_000413355.1,Download from NCBI,,
+G164,Providencia stuartii ATCC 25827,Providencia stuartii ATCC 25827,ATCC 25827,GCF_000154865.1,Download from NCBI,38.0,23.0
+G165,Roseburia inulinivorans DSMZ 16841,Roseburia inulinivorans DSM 16841,DSM 16841,GCF_000174195.1,Download from NCBI,,
+G167,Ruminococcus bromii ATCC 27255,Ruminococcus bromii,ATCC 27255,GCF_002834225.1,Download from NCBI,16.0,4.0
+G168,Ruminococcus gnavus ATCC 29149,[Ruminococcus] gnavus ATCC 29149,ATCC 29149,GCF_009831375.1,Download from NCBI,40.0,11.0
+G169,Ruminococcus gnavus CC55_001C BEI HM-1056,[Ruminococcus] gnavus CC55_001C,CC55_001C,GCF_000507805.1,Download from NCBI,46.0,14.0
+G170,Ruminococcus lactaris CC59_002D BEI HM-1057,[Ruminococcus] lactaris CC59_002D,CC59_002D,GCF_000507785.1,Download from NCBI,29.0,2.0
+G171,Ruminococcus torques ATCC 27756,[Ruminococcus] torques ATCC 27756,ATCC 27756,GCF_000153925.1,Download from NCBI,22.0,20.0
+G172,Slackia exigua ATCC 700122,Slackia exigua ATCC 700122,ATCC 700122,GCF_000162875.1,Download from NCBI,28.0,22.0
+G173,Streptococcus parasanguinis CC87K BEI HM-1060,Streptococcus parasanguinis CC87K,CC987K,GCF_000507765.1,Download from NCBI,50.0,20.0
+G175,Subdoligranulum variabile DSMZ 15176,Subdoligranulum variabile DSM 15176,DSM 15176,GCF_000157955.1,Download from NCBI,26.0,9.0
+G178,Veillonella sp. HPA0037 BEI HM-850,Veillonella sp. HPA0037,HPA0037,GCF_000411535.1,Download from NCBI,19.0,15.0
+G79,Clostridioides difficile ATCC BAA-1801,Clostridioides difficile,ATCC BAA-1801,,Download from PATRIC,,
+G80,Clostridioides difficile BI9,Clostridioides difficile BI9,BI9,GCF_000270485.1,Download from PATRIC,,
+G95,Clostridium leptum DSMZ 753,[Clostridium] leptum DSM 753,DSM 753,GCF_002556665.1 ,Download from PATRIC,20.0,7.0
+G123,Eubacterium rectale ATCC 33656,[Eubacterium] rectale ATCC 33656,ATCC 33656,GCF_000020605.1,Download from PATRIC,37.0,32.0
+G130,Fusobacterium nucleatum subsp. animalis D11 BEI HM-75,Fusobacterium nucleatum subsp. animalis D11,D11,GCF_000158535.2,Download from PATRIC,,
+G137,Lachnospiraceae sp. 1_4_56FAA BEI HM-161,Lachnospiraceae bacterium 1_4_56FAA,1_4_56FAA,GCF_000218385.1,Download from PATRIC,25.0,8.0
+G138,Lachnospiraceae sp. 2_1_58FAA BEI HM-154,Lachnospiraceae bacterium 2_1_58FAA,2_1_58FAA,GCF_000218465.1,Download from PATRIC,38.0,25.0
+G139,Lachnospiraceae sp. 7_1_58FAA BEI HM-153,Lachnospiraceae bacterium 7_1_58FAA,7_1_58FAA,GCF_000242155.1,Download from PATRIC,,
+G162,Proteus penneri ATCC 35198,Proteus penneri ATCC 35198,ATCC 35198,GCF_000155835.1,Download from PATRIC,36.0,28.0
+G166,Ruminococcaceae sp. D16 BEI HM-79,Ruminococcaceae bacterium D16,D16,GCF_000177015.3,Download from PATRIC,,
+G45,Bacteroides thetaiotaomicron 3730,,3730,,Not found,,
+G47,Bacteroides thetaiotaomicron 633,,633,,Not found,,
+G49,Bacteroides thetaiotaomicron 7853,,7853,,Not found,,
+G50,Bacteroides thetaiotaomicron 8702,,8702,,Not found,,
+G51,Bacteroides thetaiotaomicron 8713,,8713,,Not found,,
+G53,Bacteroides thetaiotaomicron 940,,940,,Not found,,
+G55,Bacteroides thetaiotaomicron wh302,,wh302,,Not found,,
+G56,Bacteroides thetaiotaomicron wh305,,wh305,,Not found,,
+G96,Clostridium perfringens,,,,Not found,,
+G126,Facklamia sp. HGF4 BEI HM-289,,HGF4,,Not found,,
+G140,Lactobacillus paracasei subspecies paracasei ATCC BAA-52,,ATCC BAA-52,,Not found,,
